@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@400;500;600;700;800&display=swap');
+
+body{
+    margin-top: 20px;
+    background-color: cornsilk;
+}
+
+*{  
+    font-family: 'Dosis', sans-serif;
+}
+
+.gradient-custom-2 {
+    background: linear-gradient(to left, #1c92d2, #6abae5);
+}
+
